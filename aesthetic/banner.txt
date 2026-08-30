@@ -1,0 +1,1 @@
+magick 00.webp 01.webp 02.webp -resize 640x640! +append banner.webp
